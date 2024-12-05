@@ -7,6 +7,7 @@ Features
     2.Leverages a U-Net architecture for modeling noise and progressive denoising.
     3.Fine-tunes CLIP for domain-specific text-image alignment.
     4.Saves the fine-tuned model and processor for future use.
-    
+#Before fine tuning
 ![results](./output_samples/before_fine_tuning_image.png "Before Fine tuning")
+#After fine tuning
 ![results](./output_samples/after_fine_tuning_image.png "After Fine tuning")
