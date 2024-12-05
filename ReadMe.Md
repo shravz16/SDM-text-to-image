@@ -8,5 +8,5 @@ Features
     3.Fine-tunes CLIP for domain-specific text-image alignment.
     4.Saves the fine-tuned model and processor for future use.
     
-![results](./output samples/before fine tuning image.png "Before Fine tuning")
-![results](./output samples/after fine tuning image.png "After Fine tuning")
+![results](./output_samples/before_fine_tuning_image.png "Before Fine tuning")
+![results](./output_samples/after_fine_tuning_image.png "After Fine tuning")
